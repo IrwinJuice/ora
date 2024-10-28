@@ -106,7 +106,7 @@ insert into DEV_TABLE_SYNC
 values (5, 'N');
 
 
-
+--https://stackoverflow.com/questions/54657309/oracle-merge-delete-clause-where-data-in-target-but-not-in-source
 create or replace PROCEDURE testProc
 AS
 BEGIN
